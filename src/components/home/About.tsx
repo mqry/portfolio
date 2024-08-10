@@ -23,19 +23,14 @@ export default function About() {
             👋
           </motion.div>
           <br />
-          I&apos;m a high school student with a passion for software development. Originally from
-          Russia, my family moved to the United States when I was seven years old. Here, I became
-          interested in programming and learning about the cool things you can do with code. You can
-          find my skills, past projects, and methods to contact me on this portfolio!
-        </div>
+          I&apos; am a current 17 year old high schooler. I have been coding for the last 4 years now. I started during covid era, 2020.
       </div>
       <PictureWithCredit
         src="/static/pfp.png"
-        alt="Krumbit profile picture"
+        alt="Mqry profile picture"
         height={256}
         width={256}
         credit={<IconCredit />}
-        creditHref={LINKS.TwitterChels}
       />
     </Section>
   );
