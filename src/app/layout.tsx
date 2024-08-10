@@ -7,12 +7,12 @@ import { jbmono } from "util/fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "krumbit",
-  description: "krumbit's personal portfolio",
-  applicationName: "krumbit",
-  authors: [{ name: "Krumbit", url: LINKS.GitRepo }],
+  title: "mqryjqne",
+  description: "mqryjqne's personal portfolio",
+  applicationName: "mqryjqne",
+  authors: [{ name: "mqryjqne", url: LINKS.GitRepo }],
   category: "Personal Portfolio",
-  creator: "Krumbit",
+  creator: "mqryjqne",
   keywords: [
     "krumbit",
     "krumb",
@@ -39,21 +39,21 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL(LINKS.BaseURL),
   openGraph: {
-    siteName: "krumbit",
-    title: "krumbit",
-    description: "krumbit's personal portfolio",
+    siteName: "mqryjqne",
+    title: "mqryjqne",
+    description: "mqryjqne's personal portfolio",
     type: "website",
     url: new URL(LINKS.BaseURL),
-    images: [{ url: "/static/pfp.png", alt: "Krumbit profile picture" }],
+    images: [{ url: "/static/pfp.png", alt: "mqryjqne profile picture" }],
     locale: "en_US",
   },
   twitter: {
-    title: "krumbit",
-    description: "krumbit's personal portfolio",
-    site: "@krumbit",
+    title: "mqryjqne",
+    description: "mqryjqne's personal portfolio",
+    site: "@mqryjqne",
     card: "summary",
-    creator: "@krumbit",
-    images: [{ url: "/static/pfp.png", alt: "Krumbit profile picture" }],
+    creator: "@mqryjqne",
+    images: [{ url: "/static/pfp.png", alt: "mqryjqne profile picture" }],
   },
 };
 
